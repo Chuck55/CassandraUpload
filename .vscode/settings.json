@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kylej\\Downloads\\opencsv-5.2.jar",
+        "c:\\Users\\kylej\\Downloads\\commons-lang3-3.12.0.jar",
+        "c:\\Users\\kylej\\Downloads\\New folder\\java-driver-core-4.15.0.jar",
+        "c:\\Users\\kylej\\Downloads\\slf4j-log4j12-1.7.31-javadoc.jar"
+    ]
+}
